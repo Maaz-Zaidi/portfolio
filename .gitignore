@@ -1,0 +1,5 @@
+# Ignore node_modules directory (common for JavaScript projects using Node.js)
+node_modules/
+
+# Ignore environment variables or secrets
+.env
